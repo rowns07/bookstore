@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "titulo": "Design para quem não é designer",
+      "autor": "Robin Williams",
+      "editora": "Callis",
+      "area": "Design"
+    },
+    {
+      "id": 2,
+      "titulo": "O Poder do hábito",
+      "autor": "Charles Duhigg",
+      "editora": "Objetiva",
+      "area": "Cotidiano"
+    }
+  ]
+}
